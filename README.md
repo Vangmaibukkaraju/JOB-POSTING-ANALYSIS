@@ -1,5 +1,6 @@
 # JOB-POSTING-ANALYSIS
 job-posting-market-analysis
+
 Story of the Project
 
 In today’s competitive job market, both job seekers and organizations face challenges in understanding hiring trends and skill requirements. With thousands of job postings available across different industries and locations, it becomes difficult to identify which roles are most in demand, what skills employers expect, and how salary patterns vary across positions.
